@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](ScreenShotConversor.png)
+![ScreenshotConversor.png](src%2Fcom%2Fconversor%2Fimagen%2FScreenshotConversor.png)
 
 ## My process
 
