@@ -23,9 +23,8 @@ Users should be able to:
 ### Screenshot
 
 ![ScreenshotConversor.png](./src/com/conversor/imagen/ScreenshotConversor.png)
-=======
+
 ![](/ScreenShotConversor.png)
->>>>>>> 41ae58a3a9d8a0baa203a96871683b6d6ceab5ec
 
 ## My process
 
