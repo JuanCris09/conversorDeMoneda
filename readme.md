@@ -22,7 +22,6 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
 ![ScreenshotConversor.png](./src/com/conversor/imagen/ScreenshotConversor.png)
 =======
 ![](/ScreenShotConversor.png)
